@@ -1,0 +1,7 @@
+selenium~=4.24.0
+webdriver-manager~=4.0.2
+pandas~=2.2.3
+ipywidgets~=8.1.6
+ipython~=9.2.0
+matplotlib~=3.10.1
+seaborn~=0.13.2
